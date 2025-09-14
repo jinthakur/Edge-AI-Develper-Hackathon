@@ -1,5 +1,9 @@
 # Edge-AI-Develper-Hackathon
 Project: Edge Tattoo Studio
+This application was created to support the local business Henna by Charu and its website, https://hennabycharu.com/
+.
+
+The main purpose of the app is to give users a private way to check on their tattoo designs.
 a. Application Description
 The Edge Tattoo Studio is a revolutionary, privacy-first application that empowers both tattoo enthusiasts and professional artists. It allows users to visualize a tattoo design on their own body before getting inked. By leveraging the on-device AI capabilities of the Snapdragon X Elite processor, our application provides a seamless and private experience.
 
@@ -13,6 +17,7 @@ This project is a clear demonstration of the Snapdragon NPU's power for high-per
 
 b. Team Members
 Jitender Thakur
+Guoqian Pan
 
 
 
