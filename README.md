@@ -16,8 +16,8 @@ On-Device Generation & Rendering: A compact, local generative AI model creates a
 This project is a clear demonstration of the Snapdragon NPU's power for high-performance, low-latency, and privacy-centric AI applications.
 
 b. Team Members
-Jitender Thakur
-Guoqian Pan
+- Jitender Thakur
+- Guoqian Pan
 
 
 
